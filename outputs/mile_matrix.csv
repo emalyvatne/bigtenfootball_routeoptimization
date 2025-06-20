@@ -1,0 +1,325 @@
+src,dest,miles
+Indiana University Bloomington,Indiana University Bloomington,0.0
+Indiana University Bloomington,Michigan State University,267.7092998522994
+Indiana University Bloomington,Northwestern University,208.333814354626
+Indiana University Bloomington,Pennsylvania State University,473.05131212077544
+Indiana University Bloomington,Purdue University,89.36951174347993
+Indiana University Bloomington,"Rutgers, The State University of New Jersey, New Brunswick",648.2087827192378
+Indiana University Bloomington,The Ohio State University,195.9087749957483
+Indiana University Bloomington,"University of California, Los Angeles",1799.052093878235
+Indiana University Bloomington,University of Illinois Urbana-Champaign,111.91209140554989
+Indiana University Bloomington,University of Iowa,315.4715047855047
+Indiana University Bloomington,"University of Maryland, College Park",514.919529252524
+Indiana University Bloomington,University of Michigan,259.569143895897
+Indiana University Bloomington,University of Minnesota Twin Cities,528.6425215497394
+Indiana University Bloomington,University of Nebraska-Lincoln,551.7475740039094
+Indiana University Bloomington,University of Oregon,1906.976410382859
+Indiana University Bloomington,University of Southern California,1791.8229533127414
+Indiana University Bloomington,University of Washington,1874.7767208171995
+Indiana University Bloomington,University of Wisconsin-Madison,308.7531232703902
+Michigan State University,Indiana University Bloomington,267.7092998522994
+Michigan State University,Michigan State University,0.0
+Michigan State University,Northwestern University,169.84634731434338
+Michigan State University,Pennsylvania State University,366.8783089904342
+Michigan State University,Purdue University,203.01552585208393
+Michigan State University,"Rutgers, The State University of New Jersey, New Brunswick",541.3666125103624
+Michigan State University,The Ohio State University,202.93173572735296
+Michigan State University,"University of California, Los Angeles",1922.7343737771735
+Michigan State University,University of Illinois Urbana-Champaign,265.4053407451095
+Michigan State University,University of Iowa,369.41120465078086
+Michigan State University,"University of Maryland, College Park",471.32472248060884
+Michigan State University,University of Michigan,48.912646944637906
+Michigan State University,University of Minnesota Twin Cities,463.9118640450381
+Michigan State University,University of Nebraska-Lincoln,644.3779035130093
+Michigan State University,University of Oregon,1927.5852684403042
+Michigan State University,University of Southern California,1916.4324773583317
+Michigan State University,University of Washington,1859.0928955124234
+Michigan State University,University of Wisconsin-Madison,251.0275827142726
+Northwestern University,Indiana University Bloomington,208.333814354626
+Northwestern University,Michigan State University,169.84634731434338
+Northwestern University,Northwestern University,0.0
+Northwestern University,Pennsylvania State University,516.809916937459
+Northwestern University,Purdue University,119.15631782895348
+Northwestern University,"Rutgers, The State University of New Jersey, New Brunswick",696.1321573919936
+Northwestern University,The Ohio State University,281.86582129057297
+Northwestern University,"University of California, Los Angeles",1754.7061635577552
+Northwestern University,University of Illinois Urbana-Champaign,137.3132020306321
+Northwestern University,University of Iowa,201.07241833850748
+Northwestern University,"University of Maryland, College Park",602.8931599596566
+Northwestern University,University of Michigan,202.69199408293179
+Northwestern University,University of Minnesota Twin Cities,344.34021383700644
+Northwestern University,University of Nebraska-Lincoln,476.2652694399291
+Northwestern University,University of Oregon,1783.652219674023
+Northwestern University,University of Southern California,1748.3022362812856
+Northwestern University,University of Washington,1729.04051142713
+Northwestern University,University of Wisconsin-Madison,112.85806015484859
+Pennsylvania State University,Indiana University Bloomington,473.05131212077544
+Pennsylvania State University,Michigan State University,366.8783089904342
+Pennsylvania State University,Northwestern University,516.809916937459
+Pennsylvania State University,Pennsylvania State University,0.0
+Pennsylvania State University,Purdue University,477.0615617010851
+Pennsylvania State University,"Rutgers, The State University of New Jersey, New Brunswick",180.4667371767732
+Pennsylvania State University,The Ohio State University,277.28066475550594
+Pennsylvania State University,"University of California, Los Angeles",2258.5515910700346
+Pennsylvania State University,University of Illinois Urbana-Champaign,548.225558504694
+Pennsylvania State University,University of Iowa,714.2290748250617
+Pennsylvania State University,"University of Maryland, College Park",134.06291640461868
+Pennsylvania State University,University of Michigan,321.3346526424268
+Pennsylvania State University,University of Minnesota Twin Cities,830.3983361251516
+Pennsylvania State University,University of Nebraska-Lincoln,985.9554798827617
+Pennsylvania State University,University of Oregon,2294.060866041685
+Pennsylvania State University,University of Southern California,2251.7127662341163
+Pennsylvania State University,University of Washington,2224.9135569754653
+Pennsylvania State University,University of Wisconsin-Madison,614.7347748499825
+Purdue University,Indiana University Bloomington,89.36951174347993
+Purdue University,Michigan State University,203.01552585208393
+Purdue University,Northwestern University,119.15631782895348
+Purdue University,Pennsylvania State University,477.0615617010851
+Purdue University,Purdue University,0.0
+Purdue University,"Rutgers, The State University of New Jersey, New Brunswick",656.9167425364684
+Purdue University,The Ohio State University,208.9044863462948
+Purdue University,"University of California, Los Angeles",1781.712337761029
+Purdue University,University of Illinois Urbana-Champaign,72.31860709324877
+Purdue University,University of Iowa,255.6438984389586
+Purdue University,"University of Maryland, College Park",540.6602980122557
+Purdue University,University of Michigan,209.1730607976081
+Purdue University,University of Minnesota Twin Cities,449.0874939818567
+Purdue University,University of Nebraska-Lincoln,514.5634514499919
+Purdue University,University of Oregon,1855.9651042934645
+Purdue University,University of Southern California,1774.8241206567366
+Purdue University,University of Washington,1814.0903593941812
+Purdue University,University of Wisconsin-Madison,223.35383372653686
+"Rutgers, The State University of New Jersey, New Brunswick",Indiana University Bloomington,648.2087827192378
+"Rutgers, The State University of New Jersey, New Brunswick",Michigan State University,541.3666125103624
+"Rutgers, The State University of New Jersey, New Brunswick",Northwestern University,696.1321573919936
+"Rutgers, The State University of New Jersey, New Brunswick",Pennsylvania State University,180.4667371767732
+"Rutgers, The State University of New Jersey, New Brunswick",Purdue University,656.9167425364684
+"Rutgers, The State University of New Jersey, New Brunswick","Rutgers, The State University of New Jersey, New Brunswick",0.0
+"Rutgers, The State University of New Jersey, New Brunswick",The Ohio State University,453.9141370732783
+"Rutgers, The State University of New Jersey, New Brunswick","University of California, Los Angeles",2438.6154064779876
+"Rutgers, The State University of New Jersey, New Brunswick",University of Illinois Urbana-Champaign,727.683350612452
+"Rutgers, The State University of New Jersey, New Brunswick",University of Iowa,894.3651343035074
+"Rutgers, The State University of New Jersey, New Brunswick","University of Maryland, College Park",168.98876199814467
+"Rutgers, The State University of New Jersey, New Brunswick",University of Michigan,497.8192531550063
+"Rutgers, The State University of New Jersey, New Brunswick",University of Minnesota Twin Cities,1001.8462160558197
+"Rutgers, The State University of New Jersey, New Brunswick",University of Nebraska-Lincoln,1166.4047478810085
+"Rutgers, The State University of New Jersey, New Brunswick",University of Oregon,2468.3470654474663
+"Rutgers, The State University of New Jersey, New Brunswick",University of Southern California,2431.7379445531824
+"Rutgers, The State University of New Jersey, New Brunswick",University of Washington,2393.0485205491414
+"Rutgers, The State University of New Jersey, New Brunswick",University of Wisconsin-Madison,791.4900051886751
+The Ohio State University,Indiana University Bloomington,195.9087749957483
+The Ohio State University,Michigan State University,202.93173572735296
+The Ohio State University,Northwestern University,281.86582129057297
+The Ohio State University,Pennsylvania State University,277.28066475550594
+The Ohio State University,Purdue University,208.9044863462948
+The Ohio State University,"Rutgers, The State University of New Jersey, New Brunswick",453.9141370732783
+The Ohio State University,The Ohio State University,0.0
+The Ohio State University,"University of California, Los Angeles",1987.218547973312
+The Ohio State University,University of Illinois Urbana-Champaign,276.6010094093212
+The Ohio State University,University of Iowa,461.0185943300305
+The Ohio State University,"University of Maryland, College Park",331.7707464432447
+The Ohio State University,University of Michigan,161.61902299146675
+The Ohio State University,University of Minnesota Twin Cities,624.277703670797
+The Ohio State University,University of Nebraska-Lincoln,723.4595838544841
+The Ohio State University,University of Oregon,2060.014776067086
+The Ohio State University,University of Southern California,1980.187417147749
+The Ohio State University,University of Washington,2010.3592330253296
+The Ohio State University,University of Wisconsin-Madison,393.37450255668915
+"University of California, Los Angeles",Indiana University Bloomington,1799.052093878235
+"University of California, Los Angeles",Michigan State University,1922.7343737771735
+"University of California, Los Angeles",Northwestern University,1754.7061635577552
+"University of California, Los Angeles",Pennsylvania State University,2258.5515910700346
+"University of California, Los Angeles",Purdue University,1781.712337761029
+"University of California, Los Angeles","Rutgers, The State University of New Jersey, New Brunswick",2438.6154064779876
+"University of California, Los Angeles",The Ohio State University,1987.218547973312
+"University of California, Los Angeles","University of California, Los Angeles",0.0
+"University of California, Los Angeles",University of Illinois Urbana-Champaign,1711.3032802047976
+"University of California, Los Angeles",University of Iowa,1553.7227137889365
+"University of California, Los Angeles","University of Maryland, College Park",2313.960029967127
+"University of California, Los Angeles",University of Michigan,1957.2299947074534
+"University of California, Los Angeles",University of Minnesota Twin Cities,1533.2730262847629
+"University of California, Los Angeles",University of Nebraska-Lincoln,1278.49937813416
+"University of California, Los Angeles",University of Oregon,731.3048460753705
+"University of California, Los Angeles",University of Southern California,9.742440571059737
+"University of California, Los Angeles",University of Washington,958.5110490352204
+"University of California, Los Angeles",University of Wisconsin-Madison,1680.0018773552738
+University of Illinois Urbana-Champaign,Indiana University Bloomington,111.91209140554989
+University of Illinois Urbana-Champaign,Michigan State University,265.4053407451095
+University of Illinois Urbana-Champaign,Northwestern University,137.3132020306321
+University of Illinois Urbana-Champaign,Pennsylvania State University,548.225558504694
+University of Illinois Urbana-Champaign,Purdue University,72.31860709324877
+University of Illinois Urbana-Champaign,"Rutgers, The State University of New Jersey, New Brunswick",727.683350612452
+University of Illinois Urbana-Champaign,The Ohio State University,276.6010094093212
+University of Illinois Urbana-Champaign,"University of California, Los Angeles",1711.3032802047976
+University of Illinois Urbana-Champaign,University of Illinois Urbana-Champaign,0.0
+University of Illinois Urbana-Champaign,University of Iowa,203.6139269880133
+University of Illinois Urbana-Champaign,"University of Maryland, College Park",607.2621035913036
+University of Illinois Urbana-Champaign,University of Michigan,277.6684104136245
+University of Illinois Urbana-Champaign,University of Minnesota Twin Cities,421.77226656725304
+University of Illinois Urbana-Champaign,University of Nebraska-Lincoln,449.0099898541783
+University of Illinois Urbana-Champaign,University of Oregon,1798.566130123134
+University of Illinois Urbana-Champaign,University of Southern California,1704.3485494313322
+University of Illinois Urbana-Champaign,University of Washington,1763.5361863477099
+University of Illinois Urbana-Champaign,University of Wisconsin-Madison,213.4733156005533
+University of Iowa,Indiana University Bloomington,315.4715047855047
+University of Iowa,Michigan State University,369.41120465078086
+University of Iowa,Northwestern University,201.07241833850748
+University of Iowa,Pennsylvania State University,714.2290748250617
+University of Iowa,Purdue University,255.6438984389586
+University of Iowa,"Rutgers, The State University of New Jersey, New Brunswick",894.3651343035074
+University of Iowa,The Ohio State University,461.0185943300305
+University of Iowa,"University of California, Los Angeles",1553.7227137889365
+University of Iowa,University of Illinois Urbana-Champaign,203.6139269880133
+University of Iowa,University of Iowa,0.0
+University of Iowa,"University of Maryland, College Park",791.3632778476638
+University of Iowa,University of Michigan,403.7534059099156
+University of Iowa,University of Minnesota Twin Cities,244.2197478152025
+University of Iowa,University of Nebraska-Lincoln,275.2298714751293
+University of Iowa,University of Oregon,1600.3860231961628
+University of Iowa,University of Southern California,1547.3483866667164
+University of Iowa,University of Washington,1560.546239122805
+University of Iowa,University of Wisconsin-Madison,146.38101657174388
+"University of Maryland, College Park",Indiana University Bloomington,514.919529252524
+"University of Maryland, College Park",Michigan State University,471.32472248060884
+"University of Maryland, College Park",Northwestern University,602.8931599596566
+"University of Maryland, College Park",Pennsylvania State University,134.06291640461868
+"University of Maryland, College Park",Purdue University,540.6602980122557
+"University of Maryland, College Park","Rutgers, The State University of New Jersey, New Brunswick",168.98876199814467
+"University of Maryland, College Park",The Ohio State University,331.7707464432447
+"University of Maryland, College Park","University of California, Los Angeles",2313.960029967127
+"University of Maryland, College Park",University of Illinois Urbana-Champaign,607.2621035913036
+"University of Maryland, College Park",University of Iowa,791.3632778476638
+"University of Maryland, College Park","University of Maryland, College Park",0.0
+"University of Maryland, College Park",University of Michigan,422.98755448611666
+"University of Maryland, College Park",University of Minnesota Twin Cities,932.8997181317897
+"University of Maryland, College Park",University of Nebraska-Lincoln,1055.1708651531846
+"University of Maryland, College Park",University of Oregon,2386.5309961232115
+"University of Maryland, College Park",University of Southern California,2306.7395843300533
+"University of Maryland, College Park",University of Washington,2327.644721363232
+"University of Maryland, College Park",University of Wisconsin-Madison,708.6797076594676
+University of Michigan,Indiana University Bloomington,259.569143895897
+University of Michigan,Michigan State University,48.912646944637906
+University of Michigan,Northwestern University,202.69199408293179
+University of Michigan,Pennsylvania State University,321.3346526424268
+University of Michigan,Purdue University,209.1730607976081
+University of Michigan,"Rutgers, The State University of New Jersey, New Brunswick",497.8192531550063
+University of Michigan,The Ohio State University,161.61902299146675
+University of Michigan,"University of California, Los Angeles",1957.2299947074534
+University of Michigan,University of Illinois Urbana-Champaign,277.6684104136245
+University of Michigan,University of Iowa,403.7534059099156
+University of Michigan,"University of Maryland, College Park",422.98755448611666
+University of Michigan,University of Michigan,0.0
+University of Michigan,University of Minnesota Twin Cities,511.0166004908598
+University of Michigan,University of Nebraska-Lincoln,678.8958446462537
+University of Michigan,University of Oregon,1972.740077432698
+University of Michigan,University of Southern California,1950.7904473496435
+University of Michigan,University of Washington,1906.3282692625571
+University of Michigan,University of Wisconsin-Madison,293.7421467931398
+University of Minnesota Twin Cities,Indiana University Bloomington,528.6425215497394
+University of Minnesota Twin Cities,Michigan State University,463.9118640450381
+University of Minnesota Twin Cities,Northwestern University,344.34021383700644
+University of Minnesota Twin Cities,Pennsylvania State University,830.3983361251516
+University of Minnesota Twin Cities,Purdue University,449.0874939818567
+University of Minnesota Twin Cities,"Rutgers, The State University of New Jersey, New Brunswick",1001.8462160558197
+University of Minnesota Twin Cities,The Ohio State University,624.277703670797
+University of Minnesota Twin Cities,"University of California, Los Angeles",1533.2730262847629
+University of Minnesota Twin Cities,University of Illinois Urbana-Champaign,421.77226656725304
+University of Minnesota Twin Cities,University of Iowa,244.2197478152025
+University of Minnesota Twin Cities,"University of Maryland, College Park",932.8997181317897
+University of Minnesota Twin Cities,University of Michigan,511.0166004908598
+University of Minnesota Twin Cities,University of Minnesota Twin Cities,0.0
+University of Minnesota Twin Cities,University of Nebraska-Lincoln,336.5315540925433
+University of Minnesota Twin Cities,University of Oregon,1467.4555462338562
+University of Minnesota Twin Cities,University of Southern California,1528.1722477579892
+University of Minnesota Twin Cities,University of Washington,1395.3116698629103
+University of Minnesota Twin Cities,University of Wisconsin-Madison,231.53630043329238
+University of Nebraska-Lincoln,Indiana University Bloomington,551.7475740039094
+University of Nebraska-Lincoln,Michigan State University,644.3779035130093
+University of Nebraska-Lincoln,Northwestern University,476.2652694399291
+University of Nebraska-Lincoln,Pennsylvania State University,985.9554798827617
+University of Nebraska-Lincoln,Purdue University,514.5634514499919
+University of Nebraska-Lincoln,"Rutgers, The State University of New Jersey, New Brunswick",1166.4047478810085
+University of Nebraska-Lincoln,The Ohio State University,723.4595838544841
+University of Nebraska-Lincoln,"University of California, Los Angeles",1278.49937813416
+University of Nebraska-Lincoln,University of Illinois Urbana-Champaign,449.0099898541783
+University of Nebraska-Lincoln,University of Iowa,275.2298714751293
+University of Nebraska-Lincoln,"University of Maryland, College Park",1055.1708651531846
+University of Nebraska-Lincoln,University of Michigan,678.8958446462537
+University of Nebraska-Lincoln,University of Minnesota Twin Cities,336.5315540925433
+University of Nebraska-Lincoln,University of Nebraska-Lincoln,0.0
+University of Nebraska-Lincoln,University of Oregon,1360.8308208410913
+University of Nebraska-Lincoln,University of Southern California,1272.139156369297
+University of Nebraska-Lincoln,University of Washington,1348.3295468782703
+University of Nebraska-Lincoln,University of Wisconsin-Madison,406.81365357096445
+University of Oregon,Indiana University Bloomington,1906.976410382859
+University of Oregon,Michigan State University,1927.5852684403042
+University of Oregon,Northwestern University,1783.652219674023
+University of Oregon,Pennsylvania State University,2294.060866041685
+University of Oregon,Purdue University,1855.9651042934645
+University of Oregon,"Rutgers, The State University of New Jersey, New Brunswick",2468.3470654474663
+University of Oregon,The Ohio State University,2060.014776067086
+University of Oregon,"University of California, Los Angeles",731.3048460753705
+University of Oregon,University of Illinois Urbana-Champaign,1798.566130123134
+University of Oregon,University of Iowa,1600.3860231961628
+University of Oregon,"University of Maryland, College Park",2386.5309961232115
+University of Oregon,University of Michigan,1972.740077432698
+University of Oregon,University of Minnesota Twin Cities,1467.4555462338562
+University of Oregon,University of Nebraska-Lincoln,1360.8308208410913
+University of Oregon,University of Oregon,0.0
+University of Oregon,University of Southern California,737.5882893416557
+University of Oregon,University of Washington,252.05738376037442
+University of Oregon,University of Wisconsin-Madison,1679.9984515359308
+University of Southern California,Indiana University Bloomington,1791.8229533127414
+University of Southern California,Michigan State University,1916.4324773583317
+University of Southern California,Northwestern University,1748.3022362812856
+University of Southern California,Pennsylvania State University,2251.7127662341163
+University of Southern California,Purdue University,1774.8241206567366
+University of Southern California,"Rutgers, The State University of New Jersey, New Brunswick",2431.7379445531824
+University of Southern California,The Ohio State University,1980.187417147749
+University of Southern California,"University of California, Los Angeles",9.742440571059737
+University of Southern California,University of Illinois Urbana-Champaign,1704.3485494313322
+University of Southern California,University of Iowa,1547.3483866667164
+University of Southern California,"University of Maryland, College Park",2306.7395843300533
+University of Southern California,University of Michigan,1950.7904473496435
+University of Southern California,University of Minnesota Twin Cities,1528.1722477579892
+University of Southern California,University of Nebraska-Lincoln,1272.139156369297
+University of Southern California,University of Oregon,737.5882893416557
+University of Southern California,University of Southern California,0.0
+University of Southern California,University of Washington,963.7578726055098
+University of Southern California,University of Wisconsin-Madison,1673.9808661245888
+University of Washington,Indiana University Bloomington,1874.7767208171995
+University of Washington,Michigan State University,1859.0928955124234
+University of Washington,Northwestern University,1729.04051142713
+University of Washington,Pennsylvania State University,2224.9135569754653
+University of Washington,Purdue University,1814.0903593941812
+University of Washington,"Rutgers, The State University of New Jersey, New Brunswick",2393.0485205491414
+University of Washington,The Ohio State University,2010.3592330253296
+University of Washington,"University of California, Los Angeles",958.5110490352204
+University of Washington,University of Illinois Urbana-Champaign,1763.5361863477099
+University of Washington,University of Iowa,1560.546239122805
+University of Washington,"University of Maryland, College Park",2327.644721363232
+University of Washington,University of Michigan,1906.3282692625571
+University of Washington,University of Minnesota Twin Cities,1395.3116698629103
+University of Washington,University of Nebraska-Lincoln,1348.3295468782703
+University of Washington,University of Oregon,252.05738376037442
+University of Washington,University of Southern California,963.7578726055098
+University of Washington,University of Washington,0.0
+University of Washington,University of Wisconsin-Madison,1619.912659979399
+University of Wisconsin-Madison,Indiana University Bloomington,308.7531232703902
+University of Wisconsin-Madison,Michigan State University,251.0275827142726
+University of Wisconsin-Madison,Northwestern University,112.85806015484859
+University of Wisconsin-Madison,Pennsylvania State University,614.7347748499825
+University of Wisconsin-Madison,Purdue University,223.35383372653686
+University of Wisconsin-Madison,"Rutgers, The State University of New Jersey, New Brunswick",791.4900051886751
+University of Wisconsin-Madison,The Ohio State University,393.37450255668915
+University of Wisconsin-Madison,"University of California, Los Angeles",1680.0018773552738
+University of Wisconsin-Madison,University of Illinois Urbana-Champaign,213.4733156005533
+University of Wisconsin-Madison,University of Iowa,146.38101657174388
+University of Wisconsin-Madison,"University of Maryland, College Park",708.6797076594676
+University of Wisconsin-Madison,University of Michigan,293.7421467931398
+University of Wisconsin-Madison,University of Minnesota Twin Cities,231.53630043329238
+University of Wisconsin-Madison,University of Nebraska-Lincoln,406.81365357096445
+University of Wisconsin-Madison,University of Oregon,1679.9984515359308
+University of Wisconsin-Madison,University of Southern California,1673.9808661245888
+University of Wisconsin-Madison,University of Washington,1619.912659979399
+University of Wisconsin-Madison,University of Wisconsin-Madison,0.0
